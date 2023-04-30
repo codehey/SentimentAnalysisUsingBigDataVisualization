@@ -1,4 +1,4 @@
-# Spring Boot Using Spring Data MongoDB Example
+# Spring Boot Project Visualization of Twitter("Bitcoin") related tweets
 
-This project depicts the Spring Boot Example with Spring Data MongoDB and REST Example.
+This project depicts Spring Data MongoDB and REST APIs and Thymeleaf.
 
